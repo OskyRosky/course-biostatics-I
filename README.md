@@ -1,6 +1,4 @@
-# course-biostatics-I
-
-# Biostatistics
+# Biostatistics I
 
 Foundations and Applications in Health Sciences
 
